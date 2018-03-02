@@ -1,3 +1,4 @@
+
 pipeline {
     agent any
 
@@ -19,3 +20,7 @@ pipeline {
         }
     }
 }
+Toggle Scripted Pipeline (Advanced)
+Not all Pipelines will have these same three stages, but it is a good starting point to define them for most projects. The sections below will demonstrate the creation and execution of a simple Pipeline in a test installation of Jenkins.
+
+
